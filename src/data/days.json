@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.2.1deb3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"sistem_informasi_jadwal"},
+{"type":"table","name":"days","database":"sistem_informasi_jadwal","data":
+[
+{"id":"1","day":"Senin"},
+{"id":"2","day":"Selasa"},
+{"id":"3","day":"Rabu"},
+{"id":"4","day":"Kamis"},
+{"id":"5","day":"Jumat"}
+]
+}
+]

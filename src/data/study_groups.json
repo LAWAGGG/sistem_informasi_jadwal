@@ -1,0 +1,165 @@
+[
+    {
+        "type": "header",
+        "version": "5.2.1deb3",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "sistem_informasi_jadwal"
+    },
+    {
+        "type": "table",
+        "name": "study_groups",
+        "database": "sistem_informasi_jadwal",
+        "data": [
+            {
+                "id": "1",
+                "level_id": "1",
+                "program_id": "1",
+                "number": "1",
+                "chief_id": "25"
+            },
+            {
+                "id": "2",
+                "level_id": "1",
+                "program_id": "1",
+                "number": "2",
+                "chief_id": "20"
+            },
+            {
+                "id": "3",
+                "level_id": "1",
+                "program_id": "2",
+                "number": null,
+                "chief_id": "41"
+            },
+            {
+                "id": "4",
+                "level_id": "1",
+                "program_id": "3",
+                "number": null,
+                "chief_id": "19"
+            },
+            {
+                "id": "5",
+                "level_id": "1",
+                "program_id": "4",
+                "number": null,
+                "chief_id": "27"
+            },
+            {
+                "id": "6",
+                "level_id": "1",
+                "program_id": "5",
+                "number": null,
+                "chief_id": "32"
+            },
+            {
+                "id": "7",
+                "level_id": "1",
+                "program_id": "6",
+                "number": null,
+                "chief_id": "22"
+            },
+            {
+                "id": "8",
+                "level_id": "2",
+                "program_id": "1",
+                "number": "1",
+                "chief_id": "44"
+            },
+            {
+                "id": "9",
+                "level_id": "2",
+                "program_id": "1",
+                "number": "2",
+                "chief_id": "10"
+            },
+            {
+                "id": "10",
+                "level_id": "2",
+                "program_id": "2",
+                "number": null,
+                "chief_id": "43"
+            },
+            {
+                "id": "11",
+                "level_id": "2",
+                "program_id": "3",
+                "number": null,
+                "chief_id": "46"
+            },
+            {
+                "id": "12",
+                "level_id": "2",
+                "program_id": "4",
+                "number": null,
+                "chief_id": "45"
+            },
+            {
+                "id": "13",
+                "level_id": "2",
+                "program_id": "5",
+                "number": null,
+                "chief_id": "42"
+            },
+            {
+                "id": "14",
+                "level_id": "2",
+                "program_id": "6",
+                "number": null,
+                "chief_id": "26"
+            },
+            {
+                "id": "15",
+                "level_id": "3",
+                "program_id": "1",
+                "number": "1",
+                "chief_id": "34"
+            },
+            {
+                "id": "16",
+                "level_id": "3",
+                "program_id": "1",
+                "number": "2",
+                "chief_id": "33"
+            },
+            {
+                "id": "17",
+                "level_id": "3",
+                "program_id": "2",
+                "number": null,
+                "chief_id": "39"
+            },
+            {
+                "id": "18",
+                "level_id": "3",
+                "program_id": "3",
+                "number": null,
+                "chief_id": "29"
+            },
+            {
+                "id": "19",
+                "level_id": "3",
+                "program_id": "4",
+                "number": null,
+                "chief_id": "24"
+            },
+            {
+                "id": "20",
+                "level_id": "3",
+                "program_id": "5",
+                "number": null,
+                "chief_id": "16"
+            },
+            {
+                "id": "21",
+                "level_id": "3",
+                "program_id": "6",
+                "number": null,
+                "chief_id": "18"
+            }
+        ]
+    }
+]

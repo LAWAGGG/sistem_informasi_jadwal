@@ -1,0 +1,54 @@
+[
+    {
+        "type": "header",
+        "version": "5.2.1deb3",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "sistem_informasi_jadwal"
+    },
+    {
+        "type": "table",
+        "name": "programs",
+        "database": "sistem_informasi_jadwal",
+        "data": [
+            {
+                "id": "1",
+                "name": "Akuntansi dan Keuangan Lembaga",
+                "codename": "AKL",
+                "chief_id": "17"
+            },
+            {
+                "id": "2",
+                "name": "Manajemen Perkantoran",
+                "codename": "MP",
+                "chief_id": "30"
+            },
+            {
+                "id": "3",
+                "name": "Manajemen Logistik",
+                "codename": "ML",
+                "chief_id": "31"
+            },
+            {
+                "id": "4",
+                "name": "Bisnis Retail",
+                "codename": "BR",
+                "chief_id": "28"
+            },
+            {
+                "id": "5",
+                "name": "Bisnis Digital",
+                "codename": "BD",
+                "chief_id": "35"
+            },
+            {
+                "id": "6",
+                "name": "Rekayasa Perangkat Lunak",
+                "codename": "RPL",
+                "chief_id": "15"
+            }
+        ]
+    }
+]

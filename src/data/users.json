@@ -1,0 +1,386 @@
+[
+    {
+        "type": "header",
+        "version": "5.2.1deb3",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "sistem_informasi_jadwal"
+    },
+    {
+        "type": "table",
+        "name": "users",
+        "database": "sistem_informasi_jadwal",
+        "data": [
+            {
+                "id": "1",
+                "name": "Dra. Yuning Rahmawati, M.Pd",
+                "username": "yuningrahmawati",
+                "email": "yuningrahmawati@gmail.com",
+                "remember_token": null,
+                "password": "yuningrahmawati"
+            },
+            {
+                "id": "2",
+                "name": "Desita Arief, S.Pd",
+                "username": "desitaarief",
+                "email": "desitaarief@gmail.com",
+                "remember_token": null,
+                "password": "desitaarief"
+            },
+            {
+                "id": "3",
+                "name": "Dra. Trisnawati",
+                "username": "trisnawati",
+                "email": "trisnawati@gmail.com",
+                "remember_token": null,
+                "password": "trisnawati"
+            },
+            {
+                "id": "4",
+                "name": "Tiomsi Sitorus, S.Th",
+                "username": "tiomsisitorus",
+                "email": "tiomsisitorus@gmail.com",
+                "remember_token": null,
+                "password": "tiomsisitorus"
+            },
+            {
+                "id": "5",
+                "name": "Sofia Nauli, S.Pd",
+                "username": "sofianauli",
+                "email": "sofianauli@gmail.com",
+                "remember_token": null,
+                "password": "sofianauli"
+            },
+            {
+                "id": "6",
+                "name": "Sarwadi, S.Pd",
+                "username": "sarwadi",
+                "email": "sarwadi@gmail.com",
+                "remember_token": null,
+                "password": "sarwadi"
+            },
+            {
+                "id": "7",
+                "name": "Titik Karyati, M.Pd",
+                "username": "titikkaryati",
+                "email": "titikkaryati@gmail.com",
+                "remember_token": null,
+                "password": "titikkaryati"
+            },
+            {
+                "id": "8",
+                "name": "Eriati Anavia, S.Pd",
+                "username": "eriatianavia",
+                "email": "eriatianavia@gmail.com",
+                "remember_token": null,
+                "password": "eriatianavia"
+            },
+            {
+                "id": "9",
+                "name": "Azwarmi, S.Pd",
+                "username": "azwarmi",
+                "email": "azwarmi@gmail.com",
+                "remember_token": null,
+                "password": "azwarmi"
+            },
+            {
+                "id": "10",
+                "name": "Habibah, S.Pd",
+                "username": "habibah",
+                "email": "habibah@gmail.com",
+                "remember_token": null,
+                "password": "habibah"
+            },
+            {
+                "id": "11",
+                "name": "Drs. Mariyetno",
+                "username": "mariyetno",
+                "email": "mariyetno@gmail.com",
+                "remember_token": null,
+                "password": "mariyetno"
+            },
+            {
+                "id": "12",
+                "name": "Nurtovingah, S.Pd",
+                "username": "nurtovingah",
+                "email": "nurtovingah@gmail.com",
+                "remember_token": null,
+                "password": "nurtovingah"
+            },
+            {
+                "id": "13",
+                "name": "Dedi Supriatna, M.Pd",
+                "username": "dedisupriatna",
+                "email": "dedisupriatna@gmail.com",
+                "remember_token": null,
+                "password": "dedisupriatna"
+            },
+            {
+                "id": "14",
+                "name": "Muchammad Eko Suryanto, S.Pd",
+                "username": "muchammadekosuryanto",
+                "email": "muchammadekosuryanto@gmail.com",
+                "remember_token": null,
+                "password": "muchammadekosuryanto"
+            },
+            {
+                "id": "15",
+                "name": "Muh. Nurrohman, S.Kom",
+                "username": "muhnurrohman",
+                "email": "muhnurrohman@gmail.com",
+                "remember_token": null,
+                "password": "muhnurrohman"
+            },
+            {
+                "id": "16",
+                "name": "Ahmad Fathurrohman, M.Pd",
+                "username": "ahmadfathurrohman",
+                "email": "ahmadfathurrohman@gmail.com",
+                "remember_token": null,
+                "password": "ahmadfathurrohman"
+            },
+            {
+                "id": "17",
+                "name": "Bunayah Safitri, S.Pd",
+                "username": "bunayahsafitri",
+                "email": "bunayahsafitri@gmail.com",
+                "remember_token": null,
+                "password": "bunayahsafitri"
+            },
+            {
+                "id": "18",
+                "name": "Mujahid Robbani Sholahudin, S.Pd",
+                "username": "mujahidrobbanisholahudin",
+                "email": "mujahidrobbanisholahudin@gmail.com",
+                "remember_token": null,
+                "password": "mujahidrobbanisholahudin"
+            },
+            {
+                "id": "19",
+                "name": "Anisa Fitri Mandagi, S.Si, M.Pd",
+                "username": "anisafitrimandagi",
+                "email": "anisafitrimandagi@gmail.com",
+                "remember_token": null,
+                "password": "anisafitrimandagi"
+            },
+            {
+                "id": "20",
+                "name": "Lukman Hakim, S.Kom",
+                "username": "lukmanhakim",
+                "email": "lukmanhakim@gmail.com",
+                "remember_token": null,
+                "password": "lukmanhakim"
+            },
+            {
+                "id": "21",
+                "name": "Faris Naufal, S.Pd",
+                "username": "farisnaufal",
+                "email": "farisnaufal@gmail.com",
+                "remember_token": null,
+                "password": "farisnaufal"
+            },
+            {
+                "id": "22",
+                "name": "Hery Purwanto, ST",
+                "username": "herypurwanto",
+                "email": "herypurwanto@gmail.com",
+                "remember_token": null,
+                "password": "herypurwanto"
+            },
+            {
+                "id": "23",
+                "name": "Wuryaningrum, S.Pd",
+                "username": "wuryaningrum",
+                "email": "wuryaningrum@gmail.com",
+                "remember_token": null,
+                "password": "wuryaningrum"
+            },
+            {
+                "id": "24",
+                "name": "Abdul Rohman, M.Pd",
+                "username": "abdulrohman",
+                "email": "abdulrohman@gmail.com",
+                "remember_token": null,
+                "password": "abdulrohman"
+            },
+            {
+                "id": "25",
+                "name": "Sudewo Pranowo, M.Pd",
+                "username": "sudewopranowo",
+                "email": "sudewopranowo@gmail.com",
+                "remember_token": null,
+                "password": "sudewopranowo"
+            },
+            {
+                "id": "26",
+                "name": "Nurul Asfiyah, S.Pd",
+                "username": "nurulasfiyah",
+                "email": "nurulasfiyah@gmail.com",
+                "remember_token": null,
+                "password": "nurulasfiyah"
+            },
+            {
+                "id": "27",
+                "name": "Mega Rahmawati, S.Pd",
+                "username": "megarahmawati",
+                "email": "megarahmawati@gmail.com",
+                "remember_token": null,
+                "password": "megarahmawati"
+            },
+            {
+                "id": "28",
+                "name": "Andia Armelita, S.Pd",
+                "username": "andiaarmelita",
+                "email": "andiaarmelita@gmail.com",
+                "remember_token": null,
+                "password": "andiaarmelita"
+            },
+            {
+                "id": "29",
+                "name": "Diah Puspitarini, M.Pd",
+                "username": "diahpuspitarini",
+                "email": "diahpuspitarini@gmail.com",
+                "remember_token": null,
+                "password": "diahpuspitarini"
+            },
+            {
+                "id": "30",
+                "name": "Diah Yunita, M.Pd",
+                "username": "diahyunita",
+                "email": "diahyunita@gmail.com",
+                "remember_token": null,
+                "password": "diahyunita"
+            },
+            {
+                "id": "31",
+                "name": "Mutmainah, S.Pd",
+                "username": "mutmainah",
+                "email": "mutmainah@gmail.com",
+                "remember_token": null,
+                "password": "mutmainah"
+            },
+            {
+                "id": "32",
+                "name": "Nina Andriani, S.Pd",
+                "username": "ninaandriani",
+                "email": "ninaandriani@gmail.com",
+                "remember_token": null,
+                "password": "ninaandriani"
+            },
+            {
+                "id": "33",
+                "name": "Siti Sendari Puji Utami, M.Pd",
+                "username": "sitindaripujiutami",
+                "email": "sitindaripujiutami@gmail.com",
+                "remember_token": null,
+                "password": "sitindaripujiutami"
+            },
+            {
+                "id": "34",
+                "name": "Siti Zulfah, S.Pd",
+                "username": "sitizulfah",
+                "email": "sitizulfah@gmail.com",
+                "remember_token": null,
+                "password": "sitizulfah"
+            },
+            {
+                "id": "35",
+                "name": "Titin Benita Musbel, SE",
+                "username": "titinbenitamusbel",
+                "email": "titinbenitamusbel@gmail.com",
+                "remember_token": null,
+                "password": "titinbenitamusbel"
+            },
+            {
+                "id": "36",
+                "name": "Tri Sulastri, SE",
+                "username": "trisulastri",
+                "email": "trisulastri@gmail.com",
+                "remember_token": null,
+                "password": "trisulastri"
+            },
+            {
+                "id": "37",
+                "name": "Wawan Gunawan, S.Pd",
+                "username": "wawangunawan",
+                "email": "wawangunawan@gmail.com",
+                "remember_token": null,
+                "password": "wawangunawan"
+            },
+            {
+                "id": "38",
+                "name": "Yeni Prasetyowati, S.Pd",
+                "username": "yeniprasetyowati",
+                "email": "yeniprasetyowati@gmail.com",
+                "remember_token": null,
+                "password": "yeniprasetyowati"
+            },
+            {
+                "id": "39",
+                "name": "Suwarmi, S.Pd",
+                "username": "suwarmi",
+                "email": "suwarmi@gmail.com",
+                "remember_token": null,
+                "password": "suwarmi"
+            },
+            {
+                "id": "40",
+                "name": "Gita Hala, M.Pd",
+                "username": "gitahala",
+                "email": "gitahala@gmail.com",
+                "remember_token": null,
+                "password": "gitahala"
+            },
+            {
+                "id": "41",
+                "name": "Putri R. Merdikaningrum, S.Pd",
+                "username": "putrirmerdikaningrum",
+                "email": "putrirmerdikaningrum@gmail.com",
+                "remember_token": null,
+                "password": "putrirmerdikaningrum"
+            },
+            {
+                "id": "42",
+                "name": "Dika Khairullah Azhar, S.Pd",
+                "username": "dikakhairullahazhar",
+                "email": "dikakhairullahazhar@gmail.com",
+                "remember_token": null,
+                "password": "dikakhairullahazhar"
+            },
+            {
+                "id": "43",
+                "name": "Mia Sumiati, S.Pd",
+                "username": "miasumiati",
+                "email": "miasumiati@gmail.com",
+                "remember_token": null,
+                "password": "miasumiati"
+            },
+            {
+                "id": "44",
+                "name": "Nur Zauhara Anbiya, S.Akun",
+                "username": "nurzauharaanbiya",
+                "email": "nurzauharaanbiya@gmail.com",
+                "remember_token": null,
+                "password": "nurzauharaanbiya"
+            },
+            {
+                "id": "45",
+                "name": "Siti Sarifah, S.Pd",
+                "username": "sitisarifah",
+                "email": "sitisarifah@gmail.com",
+                "remember_token": null,
+                "password": "sitisarifah"
+            },
+            {
+                "id": "46",
+                "name": "Nur Fathiyah, S.Pd",
+                "username": "nurfathiyah",
+                "email": "nurfathiyah@gmail.com",
+                "remember_token": null,
+                "password": "nurfathiyah"
+            }
+        ]
+    }
+]

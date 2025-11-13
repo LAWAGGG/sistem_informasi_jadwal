@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.1deb3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"sistem_informasi_jadwal"},
+{"type":"table","name":"study_locations","database":"sistem_informasi_jadwal","data":
+[
+{"id":"1","name":"Ruang Teori"},
+{"id":"2","name":"Laboratorium"}
+]
+}
+]
